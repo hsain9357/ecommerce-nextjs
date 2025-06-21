@@ -29,8 +29,12 @@ npm run start
 ## Screenshots
 
 <img src="readme-images/screencapture-localhost-3000-2025-06-21-08_46_50.png" alt="Screenshot" width="600"/>
+---
 
 <img src="readme-images/screencapture-localhost-3000-shop-2025-06-20-16_40_11.png" alt="Screenshot" width="600"/>
+---
 
 <img src="readme-images/screencapture-localhost-3000-shop-1-2025-06-20-16_39_15.png" alt="Screenshot" width="600"/>
+---
+
 <img src="readme-images/screencapture-localhost-3000-cart-2025-06-20-21_41_05.png" alt="Screenshot" width="600"/>
