@@ -3,6 +3,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Getting Started
 You should have nodejs and npm installed on your machine .
 
+[demo](https://digitalworld-ecommerce.netlify.app/)
 
 First, run the development server:
 
